@@ -1,0 +1,64 @@
+body {
+	margin: 0;
+}
+/* Utility Class */
+
+.container {
+	width: 950px;
+	margin: 0 auto;
+
+
+	
+	
+
+}
+
+/* end of utility class */
+
+.header {
+	height: 62px;
+	background: url("images/headers-background.png");
+	padding-top: 10px;
+	
+	
+}
+
+.navfind {
+	display: inline;
+	position: relative;
+	color: #fff;
+	margin-left: 10px;
+
+}
+
+.navstart {
+	display: inline;
+	position: absolute;
+	color: #fff;
+	display:inline-block;
+}
+
+.sub-header {
+	height: 90px;
+	background: rgb(255,255,255);
+	font-family: 'Nunito', sans-serif;
+	color: RGB(30,30,30);
+	font-size: 13px;
+	padding-top:20px;
+
+}
+
+.middle {
+	height: 575px;
+	background: rgb(238, 236, 232);
+	border: red;
+	margin: 0 auto;
+	width: 950px;
+
+
+}
+
+.mobbers {
+	position:fixed-right;
+
+}
